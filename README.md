@@ -12,37 +12,19 @@ This is a simple Hangman game written in Python, where the player must guess the
 - Lose condition when you run out of 6 lives.
 
 
-🖥️ Example Gameplay
-
-Word to guess: _______
-6 LIVES LEFT
-Guess a letter: a
-Word to guess: a____
-5 LIVES LEFT
-Guess a letter: z
-You guessed z, that's not in the word. You lose a life.
-  +---+
-  |   |
-  O   |
- /|\  |
- /    |
-      |
-=========
-
-
 🚀 How to Run
 
 1. Make sure you have Python 3 installed. Check with:
    python --version
 
 2. Clone this repository:
-   git clone https://github.com/YOUR-USERNAME/hangman-pokemon.git
+   git clone https://github.com/Arif-Zaman10/Python-Hangman-Game.git
 
 3. Navigate into the folder:
    cd hangman-pokemon
 
 4. Run the game:
-   python hangman.py
+   hangman.py
 
 
 
