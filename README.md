@@ -1,4 +1,4 @@
-🎮 Hangman: Pokémon Edition
+🎮 Hangman (Pokémon Edition)
 
 This is a simple Hangman game written in Python, where the player must guess the name of a Pokémon. Each wrong guess costs a life, and the Hangman drawing updates until the game is won or lost.
 
